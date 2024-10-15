@@ -1,0 +1,14 @@
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\bin\Debug\net8.0\Code HomeWork.exe
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\bin\Debug\net8.0\Code HomeWork.deps.json
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\bin\Debug\net8.0\Code HomeWork.runtimeconfig.json
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\bin\Debug\net8.0\Code HomeWork.dll
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\bin\Debug\net8.0\Code HomeWork.pdb
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\Code HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\Code HomeWork.AssemblyInfoInputs.cache
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\Code HomeWork.AssemblyInfo.cs
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\Code HomeWork.csproj.CoreCompileInputs.cache
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\Code HomeWork.dll
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\refint\Code HomeWork.dll
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\Code HomeWork.pdb
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\Code HomeWork.genruntimeconfig.cache
+c:\Users\nsqoc\OneDrive\Desktop\Code HomeWork\obj\Debug\net8.0\ref\Code HomeWork.dll
